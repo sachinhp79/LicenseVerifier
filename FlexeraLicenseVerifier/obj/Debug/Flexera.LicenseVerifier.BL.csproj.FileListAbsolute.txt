@@ -1,0 +1,6 @@
+E:\FlexeraCodeTest\FlexeraLicenseVerifier\obj\Debug\Flexera.LicenseVerifier.BL.csproj.CoreCompileInputs.cache
+E:\FlexeraCodeTest\FlexeraLicenseVerifier\bin\Debug\Flexera.LicenseVerifier.BL.dll
+E:\FlexeraCodeTest\FlexeraLicenseVerifier\bin\Debug\Flexera.LicenseVerifier.BL.pdb
+E:\FlexeraCodeTest\FlexeraLicenseVerifier\obj\Debug\Flexera.LicenseVerifier.BL.dll
+E:\FlexeraCodeTest\FlexeraLicenseVerifier\obj\Debug\Flexera.LicenseVerifier.BL.pdb
+E:\FlexeraCodeTest\FlexeraLicenseVerifier\obj\Debug\Flexera.LicenseVerifier.BL.csprojAssemblyReference.cache

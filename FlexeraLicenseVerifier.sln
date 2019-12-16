@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flexera.LicenseVerifier.BL", "FlexeraLicenseVerifier\Flexera.LicenseVerifier.BL.csproj", "{C7FC735D-C498-4550-828F-B8F6C83D8E9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flexera.LicenseVerifier.UnitTests", "Flexera.LicenseVerifier.UnitTests\Flexera.LicenseVerifier.UnitTests.csproj", "{D7A3FBBE-83B2-4163-846A-D4B29E2BC56D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7FC735D-C498-4550-828F-B8F6C83D8E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FC735D-C498-4550-828F-B8F6C83D8E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FC735D-C498-4550-828F-B8F6C83D8E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FC735D-C498-4550-828F-B8F6C83D8E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7A3FBBE-83B2-4163-846A-D4B29E2BC56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A3FBBE-83B2-4163-846A-D4B29E2BC56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A3FBBE-83B2-4163-846A-D4B29E2BC56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A3FBBE-83B2-4163-846A-D4B29E2BC56D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39146557-75E6-4A84-8AA0-0450B1C168FA}
+	EndGlobalSection
+EndGlobal

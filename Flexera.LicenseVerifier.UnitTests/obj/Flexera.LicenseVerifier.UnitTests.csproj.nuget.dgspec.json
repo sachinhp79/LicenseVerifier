@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\FlexeraCodeTest\\Flexera.LicenseVerifier.UnitTests\\Flexera.LicenseVerifier.UnitTests.csproj": {}
+  },
+  "projects": {
+    "E:\\FlexeraCodeTest\\Flexera.LicenseVerifier.UnitTests\\Flexera.LicenseVerifier.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FlexeraCodeTest\\Flexera.LicenseVerifier.UnitTests\\Flexera.LicenseVerifier.UnitTests.csproj",
+        "projectName": "Flexera.LicenseVerifier.UnitTests",
+        "projectPath": "E:\\FlexeraCodeTest\\Flexera.LicenseVerifier.UnitTests\\Flexera.LicenseVerifier.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\spanchal\\.nuget\\packages\\",
+        "outputPath": "E:\\FlexeraCodeTest\\Flexera.LicenseVerifier.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\spanchal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/braveenergy/_packaging/BravePackages/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/braveenergy/_packaging/BravePackages@Prerelease/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "E:\\FlexeraCodeTest\\FlexeraLicenseVerifier\\Flexera.LicenseVerifier.BL.csproj": {
+                "projectPath": "E:\\FlexeraCodeTest\\FlexeraLicenseVerifier\\Flexera.LicenseVerifier.BL.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "E:\\FlexeraCodeTest\\FlexeraLicenseVerifier\\Flexera.LicenseVerifier.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FlexeraCodeTest\\FlexeraLicenseVerifier\\Flexera.LicenseVerifier.BL.csproj",
+        "projectName": "Flexera.LicenseVerifier.BL",
+        "projectPath": "E:\\FlexeraCodeTest\\FlexeraLicenseVerifier\\Flexera.LicenseVerifier.BL.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
